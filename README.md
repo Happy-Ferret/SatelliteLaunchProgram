@@ -21,14 +21,14 @@ There are a couple of constraints that ISRO needs to work under:
 
 ## Download and run
 
-####Locally
+Locally
 ```
 git clone https://github.com/JessTheBell/SatelliteLaunchProgram
 cd SatelliteLaunchProgram
 go build main.go
-./SatelliteLaunchProgram
+./main
 ```
 
-####On the Go Playground
+On the Go Playground
 
 [Open In Go Playground](https://play.golang.org/p/R2lR1NMVPFQ)
